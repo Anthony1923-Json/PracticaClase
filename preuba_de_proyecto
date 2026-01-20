@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Web Básica</title>
+</head>
+<body>
+
+    <h1>Bienvenido a mi página web</h1>
+    <p>Esta es una página web básica creada en HTML.</p>
+
+    <h2>Sección de contenido</h2>
+    <p>Aquí puedes escribir información sobre ti o tu proyecto.</p>
+
+    <button>Haz clic aquí</button>
+
+    <footer>
+        <p>© 2026 Mi Página Web</p>
+    </footer>
+
+</body>
+</html>
